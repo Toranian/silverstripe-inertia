@@ -1,5 +1,5 @@
 {
-    "name": "cambis/silverstripe-inertia",
+    "name": "toranian/silverstripe-inertia",
     "description": "Inertia.js adapater for Silverstripe.",
     "license": "MIT",
     "type": "silverstripe-vendormodule",
